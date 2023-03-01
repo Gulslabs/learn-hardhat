@@ -1,0 +1,428 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Adoption.sol": {
+      "lastModificationDate": 1677313632660,
+      "contentHash": "eaf8ccbf7cbd71a55107c8a00d543fc1",
+      "sourceName": "contracts/solidity-by-example/Adoption.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Adoption"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Ballot.sol": {
+      "lastModificationDate": 1677691948731,
+      "contentHash": "d4bb5927ea78fb895fe2bc029bd7c16d",
+      "sourceName": "contracts/solidity-by-example/Ballot.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Ballot"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Call.sol": {
+      "lastModificationDate": 1675530909129,
+      "contentHash": "406f5edcee4671fb3bbfcfbea9963c13",
+      "sourceName": "contracts/solidity-by-example/Call.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Caller",
+        "Receiver"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/CarFactory.sol": {
+      "lastModificationDate": 1675605970301,
+      "contentHash": "ee1436678ff65a1c67cb775ce28a569a",
+      "sourceName": "contracts/solidity-by-example/CarFactory.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Car",
+        "CarFactory"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Fallback.sol": {
+      "lastModificationDate": 1675530896167,
+      "contentHash": "607ae78c9e621ad0f77a234ffff66750",
+      "sourceName": "contracts/solidity-by-example/Fallback.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Fallback"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Gas copy.sol": {
+      "lastModificationDate": 1677313631637,
+      "contentHash": "4d0be5d9530235e4a752a10438cc3fbe",
+      "sourceName": "contracts/solidity-by-example/Gas copy.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Gas"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Gas.sol": {
+      "lastModificationDate": 1675530896168,
+      "contentHash": "4d0be5d9530235e4a752a10438cc3fbe",
+      "sourceName": "contracts/solidity-by-example/Gas.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Gas"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/LocationTracker.sol": {
+      "lastModificationDate": 1677596136351,
+      "contentHash": "ddf75b6b867cd49e41d54ff5d74a6cff",
+      "sourceName": "contracts/solidity-by-example/LocationTracker.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "LocationTracker"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/MerkeProof.sol": {
+      "lastModificationDate": 1675530896168,
+      "contentHash": "b0894150cdc30e78b6b1732c93a6b7f4",
+      "sourceName": "contracts/solidity-by-example/MerkeProof.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Merkle",
+        "MerkleProof"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Migrations.sol": {
+      "lastModificationDate": 1677313632858,
+      "contentHash": "50b3b1dc92806dc8f604fc8c5c65518f",
+      "sourceName": "contracts/solidity-by-example/Migrations.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Migrations"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Payable.sol": {
+      "lastModificationDate": 1675530896169,
+      "contentHash": "643c0ed8ffdf387b628657ae106af5f4",
+      "sourceName": "contracts/solidity-by-example/Payable.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Payable"
+      ]
+    },
+    "/media/ahsan/Work/blockchain-workspace/learn-hardhat/contracts/solidity-by-example/Visibility.sol": {
+      "lastModificationDate": 1675530896170,
+      "contentHash": "f127bb7d9c5b8f96599767c1d3c00a18",
+      "sourceName": "contracts/solidity-by-example/Visibility.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "Base"
+      ]
+    }
+  }
+}
