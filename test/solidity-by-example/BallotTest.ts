@@ -1,6 +1,5 @@
-import { expect } from 'chai';
-import { ethers, web3 } from 'hardhat';
 import { loadFixture } from '@nomicfoundation/hardhat-network-helpers';
+import { ethers, web3 } from 'hardhat';
 
 
 describe('Ballot Test', function () {

@@ -14,7 +14,11 @@ contract Receiver {
     function foo(string memory _message, uint _x) public payable returns(uint) {
         emit Received(msg.sender, msg.value, _message);
         return _x + 1;     }
-
+        
+        receive() external payable {
+        // custom function code
+    }
+   
 }
 
 contract Caller {
